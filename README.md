@@ -1,1 +1,1 @@
-# hpa-kubernetes
+# HPA for Kubernetes
