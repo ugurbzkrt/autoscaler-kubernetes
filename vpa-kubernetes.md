@@ -2,7 +2,7 @@
 
 In my previous post, I mentioned Horizontal Pod Autoscaling (HPA) as a scaling feature for Kubernetes. In this post, I will talk about expanding the resources of a pod based on incoming traffic, rather than increasing the number of pods.
 
-https://github.com/ugurbzkrt/hpa-kubernetes/blob/main/hpa-kubernetes.md
+https://github.com/ugurbzkrt/autoscaler-kubernetes/blob/main/hpa-kubernetes.md
 
 ## Vertical Pod Autoscaling
 
