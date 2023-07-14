@@ -1,4 +1,4 @@
-# Autoscaling for Kubernetes
+# Autoscaling in Kubernetes
 The md files above will contain different topics and will be constantly updated.
 
 - [Click here for VPA-‍Vertical Pod Autoscaling](https://github.com/ugurbzkrt/autoscaler-kubernetes/blob/main/vpa-kubernetes.md "VPA")
