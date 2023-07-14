@@ -129,7 +129,7 @@ Name:     	autoscale-tester-recommender
 Namespace:	autoscale-tester
 ...
   Recommendation:
-	Container Recommendations:
+        Container Recommendations:
   	Container Name:  autoscale-tester
   	Lower Bound:
     	Cpu: 	500m
@@ -157,7 +157,7 @@ Upper Bound: The maximum recommended CPU request and memory request for the cont
 
 ```yml
  Recommendation:
-	Container Recommendations:
+        Container Recommendations:
   	Container Name:  autoscale-tester
   	Lower Bound:
     	Cpu: 	500m
