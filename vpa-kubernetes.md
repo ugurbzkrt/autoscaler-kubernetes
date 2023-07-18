@@ -11,7 +11,7 @@ What is Vertical Pod Autoscaler?
 
 Vertical Pod autoscaling (VPA) ensures that a container’s resources are not under- or over-utilized. It recommends optimized CPU and memory requests/limits values, and can also automatically update them for you so that the cluster resources are efficiently used.
 
-![alt text](https://github.com/ugurbzkrt/autoscaler-kubernetes/blob/main/vertical.png)
+![alt text](https://github.com/ugurbzkrt/autoscaler-kubernetes/blob/main/images/vertical.png)
 
 VPA recommends optimized CPU and memory requests/limits values (and automatically updates them for you so that the cluster resources are efficiently used). VPA won’t add more replicas of a Pod, but it increases the memory or CPU limits. This is useful when adding more replicas won’t help your solution. For example, sometimes you can’t scale a database just by adding more Pods. Still, you can make the database handle more connections by increasing the memory or CPU. You can use the VPA when your application serves heavyweight requests, which requires higher resources.
 
